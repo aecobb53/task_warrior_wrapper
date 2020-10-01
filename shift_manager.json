@@ -1,0 +1,446 @@
+{
+  "week": {
+    "days": {
+      "Mon": {
+        "active": true,
+        "start": "06:00M",
+        "end": "13:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Tue": {
+        "active": true,
+        "start": "06:00M",
+        "end": "13:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Wed": {
+        "active": true,
+        "start": "06:00M",
+        "end": "13:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Thu": {
+        "active": true,
+        "start": "06:00M",
+        "end": "13:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Fri": {
+        "active": true,
+        "start": "06:00M",
+        "end": "13:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sat": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sun": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      }
+    },
+    "swings_start": {
+      "Mon": {
+        "active": true,
+        "start": "13:00M",
+        "end": "21:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Tue": {
+        "active": true,
+        "start": "13:00M",
+        "end": "21:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Wed": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Thu": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Fri": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sat": {
+        "active": true,
+        "start": "18:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sun": {
+        "active": true,
+        "start": "18:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      }
+    },
+    "swings_end": {
+      "Mon": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Tue": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Wed": {
+        "active": true,
+        "start": "13:00M",
+        "end": "21:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Thu": {
+        "active": true,
+        "start": "13:00M",
+        "end": "21:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Fri": {
+        "active": true,
+        "start": "13:00M",
+        "end": "21:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sat": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sun": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      }
+    },
+    "mids": {
+      "Mon": {
+        "active": true,
+        "start": "21:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Tue": {
+        "active": true,
+        "start": "21:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Wed": {
+        "active": true,
+        "start": "21:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Thu": {
+        "active": true,
+        "start": "21:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Fri": {
+        "active": true,
+        "start": "21:00M",
+        "end": "06:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sat": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      },
+      "Sun": {
+        "active": false,
+        "start": "00:00M",
+        "end": "00:00M",
+        "shift_diff": null,
+        "augment": null
+      }
+    }
+  },
+  "start_week": 29,
+  "start_week_schedule": {
+    "Eric": "swings_end",
+    "Justin": "swings_start",
+    "Andrew": "mids",
+    "Chris": "days",
+    "Zak": null,
+    "Adam": null
+  },
+  "shift_order": [
+    "days",
+    "swings_start",
+    "mids",
+    "swings_end"
+  ],
+  "config": {
+    "week": {
+      "days": {
+        "Mon": {
+          "active": true,
+          "start": "06:00M",
+          "end": "14:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Tue": {
+          "active": true,
+          "start": "06:00M",
+          "end": "14:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Wed": {
+          "active": true,
+          "start": "06:00M",
+          "end": "14:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Thu": {
+          "active": true,
+          "start": "06:00M",
+          "end": "14:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Fri": {
+          "active": true,
+          "start": "06:00M",
+          "end": "14:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sat": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sun": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        }
+      },
+      "swings_start": {
+        "Mon": {
+          "active": true,
+          "start": "12:00M",
+          "end": "22:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Tue": {
+          "active": true,
+          "start": "12:00M",
+          "end": "22:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Wed": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Thu": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Fri": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sat": {
+          "active": true,
+          "start": "18:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sun": {
+          "active": true,
+          "start": "18:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        }
+      },
+      "swings_end": {
+        "Mon": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Tue": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Wed": {
+          "active": true,
+          "start": "12:00M",
+          "end": "22:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Thu": {
+          "active": true,
+          "start": "12:00M",
+          "end": "22:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Fri": {
+          "active": true,
+          "start": "12:00M",
+          "end": "22:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sat": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sun": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        }
+      },
+      "mids": {
+        "Mon": {
+          "active": true,
+          "start": "21:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Tue": {
+          "active": true,
+          "start": "21:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Wed": {
+          "active": true,
+          "start": "21:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Thu": {
+          "active": true,
+          "start": "21:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Fri": {
+          "active": true,
+          "start": "21:00M",
+          "end": "06:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sat": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        },
+        "Sun": {
+          "active": false,
+          "start": "00:00M",
+          "end": "00:00M",
+          "shift_diff": null,
+          "augment": null
+        }
+      }
+    },
+    "start_week": 29,
+    "start_week_schedule": {
+      "Eric": "swings_end",
+      "Justin": "swings_start",
+      "Andrew": "mids",
+      "Chris": "days",
+      "Zak": null,
+      "Adam": null
+    },
+    "shift_order": [
+      "days",
+      "swings_start",
+      "mids",
+      "swings_end"
+    ]
+  }
+}
