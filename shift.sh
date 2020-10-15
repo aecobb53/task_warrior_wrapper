@@ -59,6 +59,8 @@ else
             echo "Logging in ${DATE}" >> $LOG
             mate-terminal -e 'ssh -X snarf2'
             firefox &
+            echo "\nActive Containers\n"
+            docker ps -a | grep -v "Exited ("
             google-chrome "https://task-manager-ui.apps.prod.pcf1.us-gov-west-1.dg-govcloud-prod-01.satcloud.us/ui#/task-manager" &
             # mate-terminal -e 'watch"docker ps -a"'
         fi
